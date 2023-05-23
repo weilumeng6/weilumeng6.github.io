@@ -31,6 +31,11 @@ Blogs = "/Blogs/:year/:month/:day/:slug/"
     name = "Blogs"
     url = "/en/Blogs/"
     weight = 5
+[[menu.en]]
+    name = "中文"
+    url = "/cn/日志/"
+    weight = 7
+
 
 
 [[menu.cn]]
