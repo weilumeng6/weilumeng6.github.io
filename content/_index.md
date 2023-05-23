@@ -2,8 +2,9 @@
 title: Home
 ---
 
-{{<figure src="https://animalcorner.org/wp-content/uploads/2020/07/Japanese-Dog-Breeds-Akita.jpg" title="This is me, which is me (我就是我，不一样的烟火)" width="450">}}
+{{<figure src="/image/Myself.jpg" caption="Museum of Animal and Plant Science. Photo by my roommate in December 2020. ">}}
 
-I was born on Mars in 2011. Four days after my birth, I moved to the Earth with my family. There, what I saw shocked me greatly. 
+Welcome to my personal homepage. My name is Vicky Meng. During my time pursuing a Master's degree at the School of Finance at Zhongnan University of Economics and Law, I found the research direction I am willing to explore for whole life - family economics and population, resource, and environmental economics. If these professional terms are too obscure, to put it more directly, it is to study people from an economic perspective. In addition, I am passionate about sports programs such as running, swimming, cycling (triathlon) and playing badminton. I persist in exercising my body besides studying and enjoy the sense of accomplishment after sports.
 
-这是我 2011 年在火星出生后第三天的照片。第四天，我被运往地球，在那里看到的东西把我吓傻了。
+
+

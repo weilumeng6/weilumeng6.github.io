@@ -1,72 +1,68 @@
 ---
 title: "Curriculum Vitae"
+date: 2023-01-11T13:50:21+08:00
 type : list-single
+toc: true
 ---
 {{<block class="note">}}
-The following content came from the [Compact Academic CV](https://www.latextemplates.com/template/compact-academic-cv) by [Dario Taraborelli](https://github.com/dartar).
+If you don't want your name to appear on the commit, please contact me and I'll delete it as soon as possible.
 {{<end>}}
 
-## Albert Einstein
+## **Vicky Meng**
 
-Institute for Advanced Study\
-Einstein Drive/
-Princeton, N.J. 08540 USA
+School of Finance\
+Zhongnan University of Economics and law, Hubei Wuhan/
+China
 
-Phone: 609-734-8000\
-Mobile: 609-924-8399
+Email: weilumeng7@gmail.com\
+URL: [weilumeng.github.io](https://weilumeng.github.io/)
 
-Email: a.einstein@ias.edu\
-URL: http://www.ias.edu/spfeatures/einstein/
+Born: 1998, Handan, Hebei Province, China\
+Nationality: Chinese
 
-Born: March 12, 1879—Ulm, Germany\
-Nationality: German/American
+### Educational background
+- 2023(expected), M.A. School of Finance, Zhongnan University of Economics and law, China
+  - GPA: 88.88
+  - Advisor: [Prof. Jincheng Xie](http://finance.zuel.edu.cn/2015/1110/c1177a17976/page.htm) 
+  - Relevant courses: macroeconomics, microeconomics, econometrics, financial investment theory, public investment research, foreign economic history.
+- 2019, B.A. School of Economics and Management, Taiyuan University of Science and Techenology, China
+  - GPA: 85.39 
+  - Advisor: [Prof. Ying Liu](https://mba.tyust.edu.cn/info/1120/1985.htm)
+  - Relevant courses: mathematical Statistics, mathematical Modeling, western Economics, calculus, linear algebra, operational research.
 
-### Current position
-Emeritus Professor, Institute for Advanced Study, Princeton 
 
-### Areas of specialisation
-Physics; Relativity Theory
+### Research interests
+Family economics, Population, Resource and Environmental Economics.
 
-### Appointments held
-
-1903-1908, Swiss Patent Office, Bern\
-1908-1911, University of Bern\
-1911-1912, University of Zürich\
-1912-1914, Charles University of Prague\
-1914-1932, Prussian Academy of Sciences, Berlin\
-1920-1930, University of Leiden\
-1932-1955, Institute for Advanced Study, Princeton
-
-### Education
-1900, MSc in Physics, ETH Zürich 
-1900, PhD in Physics, ETH Zürich
-
-### Grants, honours & awards
-1921, Nobel Prize in Physics, Nobel Foundation
-
-### Publications & talks
+### Publications & Working paper
 #### Journal articles
-1. Einstein, Albert (1901), “Folgerungen aus den Capillaritätserscheinungen (Conclusions Drawn from the Phenomena of Capillarity)", *Annalen der Physik, 4*: 513
-2. Einstein, Albert (1905), “On a Heuristic Viewpoint Concerning the Production and Transforma- tion of Light", *Annalen der Physik, 17*: 132–148.
-1905b Einstein, Albert (1905), A new determination of molecular dimensions. *PhD dissertation*.
-3. Einstein, Albert (1905), “On the Motion—Required by the Molecular Kinetic Theory of Heat—of Small Particles Suspended in a Stationary Liquid", *Annalen der Physik, 17*: 549–560.\
-1905d Einstein, Albert (1905), “On the Electrodynamics of Moving Bodies", *Annalen der Physik* 17:891–921.
-4. Einstein, Albert (1905), “Does the Inertia of a Body Depend Upon Its Energy Content?", *Annalen der Physik, 18*: 639–641.
-5. Einstein, Albert (1915), “Die Feldgleichungen der Gravitation (The Field Equations of Gravitation)", *Koniglich Preussische Akademie der Wissenschaften*: 844–847
-6. Einstein, Albert (1917), “Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie (Cos-mological Considerations in the General Theory of Relativity)", *Koniglich Preussische Akademie der Wissenschaften*
-7. Einstein, Albert (1917), “Zur Quantentheorie der Strahlung (On the Quantum Mechanics of Ra- diation)", *Physikalische Zeitschrift, 18*: 121–128
+1. **W Meng**, G Yuan, Y Sun. Expansion of social networks and household carbon emissions: Evidence from household survey in China. **Energy Policy**. 266 (2022) 115863. 
+2. **W Meng**. Financial development and OFDI: a literature review. **Postgraduate Journal of Zhongnan University of Economics and Law**. 07 (2021). 
+#### Working paper
+3. **W Meng**, G Yuan. Robots and household stock market participation. International Review of Financial Analysis. 2022. *under review*. 
+4. G Yuan, H Sun, **W Meng**, Y Sun. Inclusive finance and household carbon emissions：
+Evidence from household survey in China. Climate Policy, 2021. *under review*.
+5. **W Meng**, G Yuan. Can air quality information disclosure help hinder global warming?
+Evidence from household-level survey data in China. 2022. *Waiting Submission*.
 
-#### Books
-Einstein, Albert (1954), *Ideas and Opinions*, New York: Random House, ISBN 0-517-00393-7
+### Volunteer  Experiences
 
-#### Newspaper articles
-1. Einstein, Albert, et al. (December 4, 1948), “To the editors", *New York Times*
-2. Einstein, Albert (May 1949), “Why Socialism?", *Monthly Review*.
 
-### Teaching
+1. **China Siyuan Project Poverty Alleviation Foundation, Tianjin New Oxygen Public Welfare Foundation**: "New Oxygen Beauty Plan" Guizhou volunteer activity March 1, 2022
+Content: Participated in the relief of external disabilities caused by congenital limbs, head and face birth defects and accidents, mainly participated in the relief of the poor families with low living standards/registered and registered medical records and other low-income families in Guizhou, and helped the poor people to seek medical treatment, complete their studies, improve their lives and return to normal life.
 
-...
 
-### Service to the profession
+2. **Beijing Guangming Charity Foundation**: the "Youth Star" title of the promotional activity of the Winter Olympic Games, "Passion, Ice and Snow, Building a Dream", March 19, 2022
+Content: During the Winter Olympic Games, I participated in the Winter Olympic knowledge publicity activities hosted by the Beijing Guangming Charity Foundation to help more people understand and enter the Winter Olympic Games, promote the Winter Olympic knowledge through the new media platform and invite more than 60 people to participate in the questionnaire knowledge survey to popularize the Winter Olympic knowledge.
 
-...
+
+3. **Organizing Committee of National New Youth Antiepidemic Campaign**: excellent volunteers, February 2022
+Content: Against the background of the rebound of the COVID-19, I participated in the online popularization and publicity of the protection knowledge against the epidemic organized by the National New Youth Anti epidemic Committee, helping the middle-aged and elderly people to popularize the knowledge of epidemic prevention. During this period, the publicity effect was obvious, and I was awarded the honorary title of excellent volunteer.
+
+
+### Assistantships, Grants, and Awards
+
+
+
+- 2015.09-2019.07, China Future Investment Elite Challenge **Excellence Award**, Taiyuan University of Science and Technology Second Mathematics and Science Culture Festival College Student Mathematical Fun Knowledge Contest **Third Prize**, Taiyuan University of Science and Technology **First Prize Scholarship**, Taiyuan University of Science and Technology **Third Class Scholarship**, Taiyuan University of Science and Technology "I have an agreement with the national flag" **Excellent trainees**.
+- From July 2022 to now, The 2nd National College Innovative English Vocabulary Challenge **Third Prize**, Zhongnan University of Economics and Law 2021 **Moral Style Award**, Zhongnan University of Economics and Law **First Prize**, Zhongnan University of Economics and Law**Excellent Communist Youth League Member**, and so on;
