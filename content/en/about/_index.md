@@ -14,19 +14,19 @@ School of Finance\
 Zhongnan University of Economics and law, Hubei Wuhan/
 China
 
-Email: weilumeng7@gmail.com\
-URL: [weilumeng.github.io](https://weilumeng.github.io/)
+Email: mengweilu6@163.com\
+URL: [weilumeng6.github.io](https://weilumeng6.github.io/)
 
 Born: 1998, Handan, Hebei Province, China\
 Nationality: Chinese
 
 ### Educational background
-- 2023(expected), M.A. School of Finance, Zhongnan University of Economics and law, China
-  - GPA: 88.88
+- 2023, M.A. School of Finance, Zhongnan University of Economics and law, China
+  - GPA: 88.88/100
   - Advisor: [Prof. Jincheng Xie](http://finance.zuel.edu.cn/2015/1110/c1177a17976/page.htm) 
   - Relevant courses: macroeconomics, microeconomics, econometrics, financial investment theory, public investment research, foreign economic history.
 - 2019, B.A. School of Economics and Management, Taiyuan University of Science and Techenology, China
-  - GPA: 85.39 
+  - GPA: 85.39/100 
   - Advisor: [Prof. Ying Liu](https://mba.tyust.edu.cn/info/1120/1985.htm)
   - Relevant courses: mathematical Statistics, mathematical Modeling, western Economics, calculus, linear algebra, operational research.
 
@@ -43,7 +43,7 @@ Family economics, Population, Resource and Environmental Economics.
 4. G Yuan, H Sun, **W Meng**, Y Sun. Inclusive finance and household carbon emissions：
 Evidence from household survey in China. Climate Policy, 2021. *under review*.
 5. **W Meng**, G Yuan. Can air quality information disclosure help hinder global warming?
-Evidence from household-level survey data in China. 2022. *Waiting Submission*.
+Evidence from household-level survey data in China. 2022. *under review*.
 
 ### Volunteer  Experiences
 

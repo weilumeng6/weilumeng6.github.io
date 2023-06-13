@@ -7,7 +7,7 @@ draft: false
 toc: true
 ---
 
-大概2022年3月，因为上海封城我封闭在家中，有了很多的时间，决定给自己搭建一个个人网站，来应对之后入学Master、做简历等。首先，我在[B站视频](https://www.bilibili.com/video/BV1cv411N7kz?spm_id_from=333.337.search-card.all.click)中学习了用什么来搭建个人网站。由于我没有租用服务器的想法， 那么看起来很简单很容易上手的Typecho，Halo都被我排除了，剩下的只有Hexo和Hugo。这两个都是静态网页，能够落到github上也比较符合我的需求。
+大概2022年3月，因为疫情封城我封闭在家中，有了很多的时间，决定给自己搭建一个个人网站，来应对之后入学Master、做简历等。首先，我在[B站视频](https://www.bilibili.com/video/BV1cv411N7kz?spm_id_from=333.337.search-card.all.click)中学习了用什么来搭建个人网站。由于我没有租用服务器的想法， 那么看起来很简单很容易上手的Typecho，Halo都被我排除了，剩下的只有Hexo和Hugo。这两个都是静态网页，能够落到github上也比较符合我的需求。
 
 所以我就开始研究怎么搭建一个Hugo个人网页。
 

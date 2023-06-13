@@ -17,5 +17,5 @@ If you don't want your name to appear on the commit, please contact me and I'll 
 4. G Yuan, H Sun, **W Meng**, Y Sun. Inclusive finance and household carbon emissions：
 Evidence from household survey in China. Climate Policy, 2021. *under review*.
 5. **W Meng**, G Yuan. Can air quality information disclosure help hinder global warming?
-Evidence from household-level survey data in China. 2022. *Waiting Submission*.
+Evidence from household-level survey data in China. 2022. *under review*.
 
