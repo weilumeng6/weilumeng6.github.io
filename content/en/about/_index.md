@@ -14,7 +14,7 @@ School of Finance\
 Zhongnan University of Economics and law, Hubei Wuhan/
 China
 
-Email: mengweilu6@163.com\
+Email: mengweilu6@gmail.com\
 URL: [weilumeng6.github.io](https://weilumeng6.github.io/)
 
 Born: 1998, Handan, Hebei Province, China\
@@ -32,18 +32,27 @@ Nationality: Chinese
 
 
 ### Research interests
-Family economics, Population, Resource and Environmental Economics.
+Household economics, Population, Resource and Environmental Economics.
 
 ### Publications & Working paper
 #### Journal articles
-1. **W Meng**, G Yuan, Y Sun. Expansion of social networks and household carbon emissions: Evidence from household survey in China. **Energy Policy**. 266 (2022) 115863. 
+1. **W Meng**, G Yuan, Y Sun. Expansion of social networks and household carbon emissions: Evidence from household survey in China. **Energy Policy**. 174 (2023): 113460.  (DOI: https://doi.org/10.1016/j.enpol.2023.113460)
 2. **W Meng**. Financial development and OFDI: a literature review. **Postgraduate Journal of Zhongnan University of Economics and Law**. 07 (2021). 
 #### Working paper
-3. **W Meng**, G Yuan. Robots and household stock market participation. International Review of Financial Analysis. 2022. *under review*. 
+3. **W Meng**, G Yuan. Industrial robots and household stock market participation. *North American Journal of Economics and Finance. 2022. under review*. 
 4. G Yuan, H Sun, **W Meng**, Y Sun. Inclusive finance and household carbon emissions：
-Evidence from household survey in China. Climate Policy, 2021. *under review*.
+   Evidence from household survey in China. *Energy, 2022. under review*.
 5. **W Meng**, G Yuan. Can air quality information disclosure help hinder global warming?
-Evidence from household-level survey data in China. 2022. *under review*.
+   Evidence from household-level survey data in China. *Energy Policy, 2023. under review*.
+6. **W Meng**, G Yuan. Robots and the Efficiency of Household Investment Portfolios. *Finance research letters, 2023. under review*
+
+### Intership
+
+Wuhan String Data Technology Co., Ltd (2022.09)
+
+1. Advanced applications of deep learning in STATA software, such as web data scraping, utilization of regular expressions, and text analysis; systematic learning of Python software, including basic command usage, web scraping of listed company data, and batch processing of Excel data.
+
+2. Responsibilities include data compilation and analysis, such as scraping announcement content from websites of nationally listed companies, employing regular expressions to extract relevant information, and organizing it into academically usable datasets. Additionally, leveraging the geographical location of listed companies, identifying nearby tax bureaus and shopping centers to serve as exogenous instrumental variables for research analysis.
 
 ### Volunteer  Experiences
 
@@ -60,9 +69,7 @@ Content: During the Winter Olympic Games, I participated in the Winter Olympic k
 Content: Against the background of the rebound of the COVID-19, I participated in the online popularization and publicity of the protection knowledge against the epidemic organized by the National New Youth Anti epidemic Committee, helping the middle-aged and elderly people to popularize the knowledge of epidemic prevention. During this period, the publicity effect was obvious, and I was awarded the honorary title of excellent volunteer.
 
 
-### Assistantships, Grants, and Awards
+### Honors and Awards
 
-
-
-- 2015.09-2019.07, China Future Investment Elite Challenge **Excellence Award**, Taiyuan University of Science and Technology Second Mathematics and Science Culture Festival College Student Mathematical Fun Knowledge Contest **Third Prize**, Taiyuan University of Science and Technology **First Prize Scholarship**, Taiyuan University of Science and Technology **Third Class Scholarship**, Taiyuan University of Science and Technology "I have an agreement with the national flag" **Excellent trainees**.
-- From July 2022 to now, The 2nd National College Innovative English Vocabulary Challenge **Third Prize**, Zhongnan University of Economics and Law 2021 **Moral Style Award**, Zhongnan University of Economics and Law **First Prize**, Zhongnan University of Economics and Law**Excellent Communist Youth League Member**, and so on;
+- 2015.09-2019.07, **Excellence Award** in the China Future Investment Challenge (NIC), **Third Prize** in College Students' Mathematics Fun Knowledge Contest, **First-class** Undergraduate Academic Excellence Scholarship, Title of Outstanding Trainee in Flag Squad (Physical Fitness Training)
+- From July 2020 to now, **Third Prize** in China National College Student English Innovation Challenge, Outstanding Graduate Research and Practice Individual (**Ranked 1st within the Department**), First Prize for Excellent Graduate Research Achievements (**Ranked 2nd within the Department**), **First-class** Graduate Academic Excellence Scholarship, Outstanding Volunteer in the Fight Against the Pandemic, Graduate Ethical Excellence Award, and so on;
