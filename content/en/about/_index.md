@@ -42,7 +42,7 @@ Household economics, Population, Resource and Environmental Economics.
 3. **W Meng**, G Yuan. Industrial robots and household stock market participation. *North American Journal of Economics and Finance. 2022. under review*. 
 4. G Yuan, H Sun, **W Meng**, Y Sun. Inclusive finance and household carbon emissions：
    Evidence from household survey in China. *Energy, 2022. under review*.
-5. **W Meng**, G Yuan. Can air quality information disclosure help hinder global warming?
+5. **W Meng**. Can air quality information disclosure help hinder global warming?
    Evidence from household-level survey data in China. *Energy Policy, 2023. under review*.
 6. **W Meng**, G Yuan. Robots and the Efficiency of Household Investment Portfolios. *Finance research letters, 2023. under review*
 
