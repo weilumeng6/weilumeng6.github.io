@@ -40,10 +40,9 @@ Nationality: Chinese
 1. 孟维璐. 金融发展与对外直接投资：一个文献综述[J]. **中南财经政法大学研究生论丛**, 2021, 4: 13-20
 #### 工作论文
 3. 袁歌骋, 孙红, **孟维璐**, 孙永平. Inclusive	finance	and	household	carbon	emissions:	Evidence	from	household	survey	in	China. 现投稿于《Energy》，under review.
-
 4. **孟维璐**, 袁歌骋. Industrial	robots	and	household	stock	market	participation. 现投稿于《North	American	Journal	of	Economics	and	Finance》，under review.
-
 5. **孟维璐**, 袁歌骋. Can	air	quality	information	disclosure	help	hinder	global	warming? Evidence	from	household-level	survey	data	in China. 现投稿于《Energy Policy》，under review.
+5. **孟维璐**, 袁歌骋. Robots and the Efficiency of Household Investment Portfolios. 现投稿于《Finance research letters》，under review.
 
 
 ### Volunteer  Experiences
@@ -58,7 +57,7 @@ Content: Participated in the rescue of external disabilities caused by congenita
 内容：在冬奥会举办期间，参与了北京市光明慈善基金会主办的冬奥知识宣传活动，帮助更多人了解并走进冬奥会，通过新媒体平台宣传冬奥知识并邀请60余人次参与问卷知识调查，普及冬奥知识。
 
 2. **Beijing Bright Charity Foundation**: "Passionate Ice and Snow. Building Dreams Together" Winter Olympics promotional activity "Youth Star" title March 19, 2022
-  Content: During the Winter Olympics, participated in the Winter Olympics knowledge publicity activity hosted by Beijing Guangming Charity Foundation, helped more people understand and enter the Winter Olympics, publicized the Winter Olympics knowledge through new media platforms and invited more than 60 person-times Participate in questionnaire knowledge surveys to popularize Winter Olympics knowledge.
+    Content: During the Winter Olympics, participated in the Winter Olympics knowledge publicity activity hosted by Beijing Guangming Charity Foundation, helped more people understand and enter the Winter Olympics, publicized the Winter Olympics knowledge through new media platforms and invited more than 60 person-times Participate in questionnaire knowledge surveys to popularize Winter Olympics knowledge.
 
 3.**全国新青年抗疫宣传活动组委会**： 优秀志愿者 2022年2月
 内容：在新冠肺炎疫情反弹背景下，参与了全国新青年抗击疫情组委会主办的线上普及宣传抗击疫情的防护知识宣传活动，帮助中老年人群普及防疫知识，期间宣传效果明显，获优秀志愿者荣誉称号。
