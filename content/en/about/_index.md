@@ -32,7 +32,7 @@ Nationality: Chinese
 
 
 ### Research interests
-Household economics, Population, Resource and Environmental Economics.
+Household economics, Labor Economics, Behavior Economics.
 
 ### Publications & Working paper
 #### Journal articles
