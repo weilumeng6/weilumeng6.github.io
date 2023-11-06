@@ -32,7 +32,7 @@ Nationality: Chinese
 
 
 ### Research interests
-Household economics, Labor Economics, Behavior Economics.
+Household economics, Labor Economics, Environmental Economics.
 
 ### Publications & Working paper
 #### Journal articles
