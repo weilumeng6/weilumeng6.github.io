@@ -8,11 +8,11 @@ toc: true
 If you don't want your name to appear on the commit, please contact me and I'll delete it as soon as possible.
 {{<end>}}
 
-## **Vicky Meng**
+## **Weilu Meng**
 
-School of Finance\
-Zhongnan University of Economics and law, Hubei Wuhan/
-China
+School of Business\
+University of Western Australia, WA/
+Australia
 
 Email: mengweilu6@gmail.com\
 URL: [weilumeng6.github.io](https://weilumeng6.github.io/)
@@ -21,29 +21,32 @@ Born: 1998, Handan, Hebei Province, China\
 Nationality: Chinese
 
 ### Educational background
-- 2023, M.A. School of Finance, Zhongnan University of Economics and law, China
+- 08/2024-，Ph.D, School of Business, University of Western Australia, Australia
+  * Research area: Environmental Economics, Family Economics, Labor Economics
+  * Supervisors: Michael Jetter, Alison Preston
+- 09/2020-06/2023, M.A. School of Finance, Zhongnan University of Economics and law, China
   - GPA: 88.88/100
   - Advisor: [Prof. Jincheng Xie](http://finance.zuel.edu.cn/2015/1110/c1177a17976/page.htm) 
   - Relevant courses: macroeconomics, microeconomics, econometrics, financial investment theory, public investment research, foreign economic history.
-- 2019, B.A. School of Economics and Management, Taiyuan University of Science and Techenology, China
+- 09/2015-06/2019, B.A. School of Economics and Management, Taiyuan University of Science and Techenology, China
   - GPA: 85.39/100 
   - Advisor: [Prof. Ying Liu](https://mba.tyust.edu.cn/info/1120/1985.htm)
   - Relevant courses: mathematical Statistics, mathematical Modeling, western Economics, calculus, linear algebra, operational research.
 
 
 ### Research interests
-Household economics, Labor Economics, Environmental Economics.
+Environmental Economics, Family economics, Labor Economics.
 
 ### Publications & Working paper
 #### Journal articles
-1. **W Meng**, G Yuan, Y Sun. Expansion of Social Networks and Household Carbon Emissions: Evidence from Household Survey in China. **Energy Policy**. 174 (2023): 113460.  (DOI: https://doi.org/10.1016/j.enpol.2023.113460)
-2. **W Meng**. Financial Development and OFDI: A Literature Review. **Postgraduate Journal of Zhongnan University of Economics and Law**. 07 (2021). 
+- **W Meng**, G Yuan, Y Sun. Expansion of Social Networks and Household Carbon Emissions: Evidence from Household Survey in China. **Energy Policy**. 174 (2023): 113460.  (DOI: https://doi.org/10.1016/j.enpol.2023.113460)
+- Y. Sun, H. Sun, **W. Meng**, C. Guo. The Impact of Inclusive Finance on Household Carbon Emissions—Evidence from China. **Applied Economics Letters**, 2024: 1-8. (DOI: https://doi.org/10.1080/13504851.2024.2347433)
+- **W Meng**. Financial Development and OFDI: A Literature Review. **Postgraduate Journal of Zhongnan University of Economics and Law**. 07 (2021). (Chinese Journal)
+
 #### Working paper
-3. **W Meng**, G Yuan. Industrial Robots and Household Stock Market Participation: Evidence from China. *R&R at Pacific-Basin Finance Journal*.  
-4. G Yuan, H Sun, **W Meng**, Y Sun. Inclusive Finance and Household Carbon Emissions：
-   Evidence from Household Survey in China. *R&R at Energy Economics*.
-5. **W Meng**, G Yuan. Can Air Quality Information Disclosure Help Reduce Household Carbon Emissions? Evidence from China. *Submitted at Energy Policy*.
-6. **W Meng**, G Yuan. Industrial Robots and the Efficiency of Household Investment Portfolios: Evidence from China. *Submitted at Finance Research Letters*.
+- **W Meng**, G Yuan. Industrial Robots and Household Stock Market Participation: Evidence from China. *R&R at Pacific-Basin Finance Journal*.  
+- **W Meng**, G Yuan. Can Air Quality Information Disclosure Help Reduce Household Carbon Emissions? Evidence from China. *Submitted at Energy Economics*.
+- **W Meng**, G Yuan. Industrial Robots and the Efficiency of Household Investment Portfolios: Evidence from China. *Submitted at Finance Research Letters*.
 
 ### Intership
 

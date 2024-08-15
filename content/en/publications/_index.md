@@ -10,12 +10,11 @@ If you don't want your name to appear on the commit, please contact me and I'll 
 
 ## Publications & Working papers
 ### Journal articles
-1. **W Meng**, G Yuan, Y Sun. Expansion of Social Networks and Household Carbon Emissions: Evidence from Household Survey in China. **Energy Policy**. 174 (2023): 113460. (DOI: https://doi.org/10.1016/j.enpol.2023.113460)
-2. **W Meng**. FFinancial Development and OFDI: A Literature Review. **Postgraduate Journal of Zhongnan University of Economics and Law**. 07 (2021). 
+- **W Meng**, G Yuan, Y Sun. Expansion of Social Networks and Household Carbon Emissions: Evidence from Household Survey in China. **Energy Policy**. 174 (2023): 113460. (DOI: https://doi.org/10.1016/j.enpol.2023.113460)
+- Y. Sun, H. Sun, **W. Meng**, C. Guo. The Impact of Inclusive Finance on Household Carbon Emissions—Evidence from China. **Applied Economics Letters**, 2024: 1-8. (DOI: https://doi.org/10.1080/13504851.2024.2347433)
+- **W Meng**. Financial Development and OFDI: A Literature Review. **Postgraduate Journal of Zhongnan University of Economics and Law**. 07 (2021). (Chinese Journal)
 ### Working papers
-3. **W Meng**, G Yuan. Industrial Robots and Household Stock Market Participation: Evidence from China. *R&R at Pacific-Basin Finance Journal*. 
-4. G Yuan, H Sun, **W Meng**, Y Sun. Inclusive Finance and Household Carbon Emissions：
-    Evidence from Household Survey in China. *R&R at Energy Economics*.
-5. **W Meng**, G Yuan. Can Air Quality Information Disclosure Help Reduce Household Carbon Emissions? Evidence from China. *Submitted at Energy Policy*.
-6. **W Meng**, G Yuan. Industrial Robots and the Efficiency of Household Investment Portfolios: Evidence from China. *Submitted at Finance Research Letters*.
+- **W Meng**, G Yuan. Industrial Robots and Household Stock Market Participation: Evidence from China. *R&R at Pacific-Basin Finance Journal*. 
+- **W Meng**, G Yuan. Can Air Quality Information Disclosure Help Reduce Household Carbon Emissions? Evidence from China. *Submitted at Energy Economics*.
+- **W Meng**, G Yuan. Industrial Robots and the Efficiency of Household Investment Portfolios: Evidence from China. *Submitted at Finance Research Letters*.
 
