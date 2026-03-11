@@ -1,0 +1,5 @@
+cd /d/quickstart_new
+git status
+git add .
+git commit -m "Update website content"
+git push origin master
