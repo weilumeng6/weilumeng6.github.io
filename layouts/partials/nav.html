@@ -1,20 +1,14 @@
-<nav class="nav2" >
-      <a href="{{ "/" | relURL }}" class="nav-logo">
-        <img src="{{ print "" .Site.Params.logo.url | relURL }}"
-         width="{{ .Site.Params.logo.width }}"
-         height="{{ .Site.Params.logo.height }}"
-         alt="{{ .Site.Params.logo.alt }}">
-      </a>
+<nav style="display:flex; justify-content:space-between; align-items:center; padding:16px 40px; border-bottom:1px solid #ddd;">
+  <div>
+    <a href="/" style="text-decoration:none;">
+      <img src="/image/Vicky.jpg" alt="logo" style="height:42px; width:auto;">
+    </a>
+  </div>
 
-      <ul class="nav-links" >
-        {{ if .IsHome }}
-        {{ range .Site.Menus.en }}
-           <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-        {{ end }}
-        {{ else }}
-        {{ range (default .Site.Menus.main (index .Site.Menus $.Section)) }}
-           <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-       {{ end }}
-       {{ end }}
-      </ul>
+  <div>
+    <a href="/" style="margin-left:24px; text-decoration:none; color:black; font-size:18px;">Home</a>
+    <a href="/research/" style="margin-left:24px; text-decoration:none; color:black; font-size:18px;">Research</a>
+    <a href="/teaching/" style="margin-left:24px; text-decoration:none; color:black; font-size:18px;">Teaching</a>
+    <a href="/conference/" style="margin-left:24px; text-decoration:none; color:black; font-size:18px;">Conferences</a>
+  </div>
 </nav>
