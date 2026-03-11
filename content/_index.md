@@ -2,7 +2,7 @@
 title: Home
 ---
 
-{{<figure src="/image/Myself.jpg">}}
+<img src="/image/Myself.jpg" alt="Weilu Meng" style="width:320px; height:auto;">
 
 **Welcome to my academic homepage. I am Weilu Meng (孟维璐), a second-year PhD student in the School of Economics at the University of Queensland. My research interests lie in microeconomics, with a particular focus on household economics, public economics, applied econometrics, and household finance.**
 
