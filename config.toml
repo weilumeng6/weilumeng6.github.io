@@ -1,158 +1,99 @@
-baseURL = "https://WeiluMeng.github.io/"
+baseURL = "https://weilumeng6.github.io/"
 languageCode = "en-us"
-title = "WeiluMeng"
+title = "Weilu Meng"
 theme = "hugo-ht"
 footnotereturnlinkcontents = "↩"
 enableRobotsTXT = true
-# enableGitInfo = true
-
-[permalinks]
-cn = "/cn/:year/:month/:day/:slug/"
-en = "/en/:year/:month/:day/:slug/"
-Blogs = "/Blogs/:year/:month/:day/:slug/"
 
 [[menu.en]]
     name = "Home"
     url = "/"
     weight = 1
+
 [[menu.en]]
-    name = "CV"
-    url = "/en/about/"
+    name = "Research"
+    url = "/research/"
     weight = 2
-[[menu.en]]
-    name = "Publications"
-    url = "/en/publications/"
-    weight = 3 
-[[menu.en]]
-    name = "Projects"
-    url = "/en/Projects/"
-    weight = 4 
-[[menu.en]]
-    name = "Blogs"
-    url = "/en/Blogs/"
-    weight = 5
-[[menu.en]]
-    name = "中文"
-    url = "/cn/日志/"
-    weight = 7
 
+[[menu.en]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 3
 
-
-[[menu.cn]]
-    name = "简历"
-    url = "/cn/本科简历/"
-    weight = 1
-[[menu.cn]]
-    name = "刊物"
-    url = "/cn/刊物/"
-    weight = 2 
-[[menu.cn]]
-    name = "笔记&项目"
-    url = "/cn/笔记&项目/"
-    weight = 3 
-[[menu.cn]]
-    name = "关于"
-    url = "/cn/关于/"
+[[menu.en]]
+    name = "Conferences"
+    url = "/conference/"
     weight = 4
-[[menu.cn]]
-    name = "日志"
-    url = "/cn/日志/"
-    weight = 5
-[[menu.cn]]
-    name = "照片墙"
-    url = "/cn/照片墙/"
-    weight = 6
-[[menu.cn]]
-    name = "英文"
-    url = "/"
-    weight = 7
-
-
 
 [params]
-    description = "Peronal website of Your Name"
-    homeText = "You just need a Hugo blog from scratch"
-    # Please make sure `blogDirNmae` matches the name used in `menu` above:
-    blogDirName = "Blogs"
-    # singleLang = true
+    description = "Personal academic website of Weilu Meng"
+    homeText = "PhD Student in Economics, The University of Queensland"
+    blogDirName = "blog"
+    singleLang = true
     defaultLang = "en"
-    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs" 
+    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
     MathJaxVersion = "2.7.5"
     favicon = "image/Vicky.jpg"
-    # Edit by yourself:
     GithubEdit = "https://github.com/WeiluMeng/WeiluMeng.github.io/edit/master/content/"
     copyright = "&copy;"
-    copyrightYear = "2022-2024"
-    # Edit by yourself:
+    copyrightYear = "2022-2026"
     GithubRepo = "https://github.com/WeiluMeng/WeiluMeng.github.io"
-    # Edit by yourself:
-    ContentSource = "https://raw.githubusercontent.com/WeiluMeng/WeiluMeng.github.io/master/content/" 
+    ContentSource = "https://raw.githubusercontent.com/WeiluMeng/WeiluMeng.github.io/master/content/"
 
 [params.logo]
-
-  # Change the logo picture as your prefer:
-
-  url = "image/Vicky.jpg"
-  width = 50.0
-  height = 50.0
-  alt = "Weilu-Meng"
+    url = "image/Vicky.jpg"
+    width = 70.0
+    height = 70.0
+    alt = "Weilu Meng"
 
 [params.lang]
 
     [params.lang.author]
       en = "Weilu Meng"
-      cn = "鹿吉路"
-    
+
     [params.lang.madeWith]
       en = "Made with"
-      cn = "本站驱动"
-    
+
     [params.lang.edit]
       en = "Suggest an edit of this page"
-      cn = "编辑本页"
-    
+
     [params.lang.lastupdate]
       en = "Last modified on"
-      cn = "最后一次修改于"
-    
+
     [params.lang.Sitelastupdate]
       en = "Site last updated on"
-      cn = "最近一次更新于"
-    
+
     [params.lang.sourceCode]
       en = "Content in"
-      cn = "内容存于"
-    
+
     [params.lang.subscribe]
       en = "Subscribe"
-      cn = "订阅"
-    
+
     [params.lang.license]
       en = "License"
-      cn = "版权"
 
 [markup]
- defaultMarkdownHandler = "goldmark"
+  defaultMarkdownHandler = "goldmark"
 
   [markup.goldmark]
 
     [markup.goldmark.extensions]
-    definitionList = true
-    footnote = true
-    linkify = false
-    strikethrough = true
-    table = true
-    taskList = true
-    typographer = true
-    
+      definitionList = true
+      footnote = true
+      linkify = false
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+
     [markup.goldmark.parser]
-    attribute = true
-    autoHeadingID = true
-    
+      attribute = true
+      autoHeadingID = true
+
     [markup.goldmark.renderer]
-    hardWraps = false
-    unsafe = true
-    xHTML = false
+      hardWraps = false
+      unsafe = true
+      xHTML = false
 
   [markup.highlight]
     codeFences = true
@@ -166,9 +107,13 @@ Blogs = "/Blogs/:year/:month/:day/:slug/"
     tabWidth = 4
 
   [markup.tableOfContents]
-  endLevel = 3
-  ordered = true
-  startLevel = 2
+    endLevel = 3
+    ordered = true
+    startLevel = 2
 
 [imaging]
 quality = 100
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
